@@ -46,3 +46,16 @@ python main.py --dataset reddit --hidden_dim 128 --n_classes 64 --n_layers 2 --f
 - Python 3.7
 - PyTorch 1.9.0+cu111
 - dgl-cu110 0.7.1
+
+## Reference
+If you find this repository useful in your research, please consider citing the following paper:
+```
+@inproceedings{xu2023cldg,
+  title={CLDG: Contrastive Learning on Dynamic Graphs},
+  author={Xu, Yiming and Shi, Bin and Ma, Teng and Dong, Bo and Zhou, Haoyi and Zheng, Qinghua},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+  pages={696--707},
+  year={2023},
+  organization={IEEE}
+}
+```
