@@ -58,4 +58,14 @@ If you find this repository useful in your research, please consider citing the 
   year={2023},
   organization={IEEE}
 }
+
+@article{xu2024learning,
+  title={Learning dynamic graph representations through timespan view contrasts},
+  author={Xu, Yiming and Peng, Zhen and Shi, Bin and Hua, Xu and Dong, Bo},
+  journal={Neural Networks},
+  volume={176},
+  pages={106384},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
